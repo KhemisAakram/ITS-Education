@@ -1,0 +1,12 @@
+# Private / local files
+*.xlsx
+*.xls
+*.csv
+.env
+.env.*
+private/
+sensitive/
+student-data/
+parent-data/
+employee-data/
+contracts/
